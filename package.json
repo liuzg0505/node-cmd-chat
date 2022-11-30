@@ -1,0 +1,16 @@
+{
+  "name": "node-cmd-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clients.js",
+  "scripts": {
+    "server": "node server.js",
+    "start": "node clients.js"
+  },
+  "keywords": [],
+  "author": "LeoLiu",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^1.2.1"
+  }
+}
